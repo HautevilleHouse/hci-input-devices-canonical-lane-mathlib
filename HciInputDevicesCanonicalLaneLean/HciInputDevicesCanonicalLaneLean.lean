@@ -1,0 +1,17 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HciInputDevicesCanonicalLaneLean.DeviceTaxonomy
+import HciInputDevicesCanonicalLaneLean.DeviceControllerBridges
+import HciInputDevicesCanonicalLaneLean.InputLatencyModel
+import HciInputDevicesCanonicalLaneLean.GestureRecognition
+import HciInputDevicesCanonicalLaneLean.ErgonomicSafety
+import HciInputDevicesCanonicalLaneLean.BridgeLemmas
+import HciInputDevicesCanonicalLaneLean.GateLemmas
+import HciInputDevicesCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace HciInputDevicesCanonicalLaneLean
+
+def packageImported : Bool := true
+
+end HciInputDevicesCanonicalLaneLean
+end HautevilleHouse
